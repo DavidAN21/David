@@ -1,0 +1,7 @@
+David,20,3.5
+Paulo,20,3.8
+Garry,22,2.9
+Andrey,21,3.9
+Sebastian,20,2.7
+Floria,22,3.6
+Evi,21,3.4
